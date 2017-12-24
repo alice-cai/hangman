@@ -138,6 +138,7 @@ loop
                 put "Letters guessed so far: ", lettersGuessed      % are deducted.
             else
                 put "Not enough points! You need 20 points to get a hint."
+                put "Letters guessed so far: ", lettersGuessed
             end if
                 
         % Checks to see if the character entered was a letter. If so, 10 points are deducted from the user's
