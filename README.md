@@ -1,6 +1,5 @@
 # hangman
-This is a word guessing game written in Turing. It was created for ICS2O1 (Introduction to Computer
-Studies) in May 2016.
+This is a word guessing game written in Turing.
 
 The program selects a secret word from a given list that the user must guess by entering one
 letter at a time. Each time they guess a letter, they lose 10 of their 100 points. They have the
