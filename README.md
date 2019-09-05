@@ -10,7 +10,7 @@ they guess incorrectly, they lose all their remaining points. If they guess corr
 word. In any case, they gain 10 extra points if they guess the secret word correctly. At the end
 of each game, they are given the option to play again with 100 new points and a new secret word.
 
-Game logic: [Alice Cai](https://github.com/alice-cai)\ 
+Game logic: [Alice Cai](https://github.com/alice-cai)  
 Hangman graphic: [Tariq Yee](https://github.com/tariqyee)
 
 This project was created for ICS2O1 in May 2016.
